@@ -1,6 +1,9 @@
 # Case for Photon 
 ###Considerate Driver Continued
 
+
+<img src="https://raw.githubusercontent.com/wsjgithub/3dCase/master/images/whole.jpg" alt="alt text" height="500px">
+
 The project is a case to enclose the photon and sensors from the previous projects. A light stripe that goes around the case shows the driving conditions:
 Agressive driving - red
 Normal driving - green
@@ -14,7 +17,14 @@ From top to bottom:
 4. 3d printed bottom layer
 Layers 2, 3, 4 are glued together. 
 
-The case has an opening for the GPS which must face the sky and cannot be enclosed inside the case. 
+<img src="https://raw.githubusercontent.com/wsjgithub/3dCase/master/images/bottom.jpg" alt="alt text" width="300px">
+<img src="https://raw.githubusercontent.com/wsjgithub/3dCase/master/images/acrylic.jpg" alt="alt text" width="300px">
+<img src="https://raw.githubusercontent.com/wsjgithub/3dCase/master/images/lid.jpg" alt="alt text" width="300px">
 
+The case has an opening for the GPS which must face the sky and cannot be enclosed inside the case. 
+<img src="https://raw.githubusercontent.com/wsjgithub/3dCase/master/images/gps.jpg" alt="alt text" width="300px">
+
+The bottom has a hole to let through the USB cable. 
+<img src="https://raw.githubusercontent.com/wsjgithub/3dCase/master/images/usb.jpg" alt="alt text" width="300px">
 
 A new LED strip is added as an output device. 
