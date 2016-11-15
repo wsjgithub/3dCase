@@ -25,6 +25,11 @@ The case has an opening for the GPS which must face the sky and cannot be enclos
 <img src="https://raw.githubusercontent.com/wsjgithub/3dCase/master/images/gps.jpg" alt="alt text" width="300px">
 
 The bottom has a hole to let through the USB cable. 
+
 <img src="https://raw.githubusercontent.com/wsjgithub/3dCase/master/images/usb.jpg" alt="alt text" width="300px">
 
 A new LED strip is added as an output device. 
+
+###Limitations
+1. The motions sensor is not secured inside the case. The 3d printer doesn't do well with printing small parts with precise dimensions and it was difficult to use Tickercad to make anything precise. 
+2. The LED strip is not fixed for the same reason. 
